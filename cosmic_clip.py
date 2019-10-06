@@ -1,4 +1,4 @@
-# Mike Laverick - cosmic ray removal tool - KU Leuven - mike.laverick@stzkuleuven.be
+# Mike Laverick - cosmic ray removal tool - KU Leuven - mikelaverick@btinternet.com
 #
 #--------------------------------------------------------------------------------------------------
 import numpy as np
